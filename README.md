@@ -1,17 +1,20 @@
 
-# <a href="https://www.linkedin.com/in/kiranregmics/">Kiran Regmi </a> - Cybersecurity Project Portfolio 🔐 👋
+### Welcome! 
+I'm a cybersecurity enthusiast with a hands-on approach to tackling real-world security challenges. From threat detection to vulnerability management, each project here reflects my commitment to strengthening systems and staying ahead of evolving threats.
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes! 
+Whether it's automating security operations or simulating attacks, I focus on building solutions that make an impact. Feel free to explore and check back often as I continue to add new projects that push the boundaries of cyber defense.
 
-I will be adding more projects periodically, so check them out.
+#### - <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
+
+# ✅ Cybersecurity Project Portfolio 🔐 👋
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects:
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations:
 
 - **[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
