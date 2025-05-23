@@ -13,6 +13,7 @@ I will be adding more projects periodically, so check them out.
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
