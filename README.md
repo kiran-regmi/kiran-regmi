@@ -29,7 +29,6 @@ I will be adding more projects periodically, so check them out.
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/kiran-regmi/_
 
-// https://www.youtube.com/@kiran-regmi-cyber-defense
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
