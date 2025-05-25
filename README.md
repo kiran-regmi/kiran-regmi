@@ -11,7 +11,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 # 👋 🔐 Cybersecurity Project Portfolio 🔐 👋
 
 ## ✅ Vulnerability Management Dashboard:
-- ***[Build a dashboard to track and priotize security vulnerabilites](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
+- Build a dashboard to track and priotize security vulnerabilites
 
 ## ⚠️ Vulnerability Management Projects:
 
@@ -25,12 +25,12 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 ## 🛡️ Risk Assessment for Cloud Deployment:
 
-- ***[Performed a risk assessment on a sample company ](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
+- Performed a risk assessment on a sample company
 
 
 ## 🚨 Simulated Phishing Attack and Awareness Report:
 
-- ***[Simulated a Phising attack and evaluated user responses](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
+- Simulated a Phising attack and evaluated user responses
 
 <hr/>
 
