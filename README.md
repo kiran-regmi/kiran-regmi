@@ -13,6 +13,9 @@ I’m always learning and adding new projects, so feel free to explore and check
 ## ✅ Vulnerability Management Dashboard:
 - Build a dashboard to track and priotize security vulnerabilites
 
+## ✅ Cloud Security with AWS IAM:
+- ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
+
 ## ⚠️ Vulnerability Management Projects:
 
 - ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
