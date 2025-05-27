@@ -10,9 +10,6 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 👋 🔐 Cybersecurity Project Portfolio 🔐 👋
 
-## ✅ Vulnerability Management Dashboard:
-- Build a dashboard to track and priotize security vulnerabilites
-
 ## ✅ Cloud Security with AWS IAM:
 - ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
@@ -26,14 +23,16 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 - ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 
-## 🛡️ Risk Assessment for Cloud Deployment:
+## Future Projects:
+- 🛡️Perform a risk assessment on a sample company
+- 🚨Simulate a Phising attack and evaluate user responses
+- ✅Build a dashboard to track and priotize security vulnerabilites
 
-- Performed a risk assessment on a sample company
+## Skills I am working on:
+- Risk Management Framework, Risk Assessment Process
+- Writing detection queries using Kusto Query Language (KQL)
+- MITRE ATT&CK framework and threat mapping
 
-
-## 🚨 Simulated Phishing Attack and Awareness Report:
-
-- Simulated a Phising attack and evaluated user responses
 
 <hr/>
 
