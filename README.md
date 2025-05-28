@@ -13,7 +13,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 ## 🔐 🆕 Cloud Security with AWS IAM:
 - ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
-## ⚠️ Vulnerability Management Projects:
+## ⚠️ 📋 Vulnerability Management Projects:
 
 - ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
 - ***[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)***
@@ -23,7 +23,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 - ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 
-## Future Projects:
+## 👀 Future Projects:
 - 🛡️Perform a risk assessment on a sample company
 - 🚨Simulate a Phising attack and evaluate user responses
 - ✅Build a dashboard to track and priotize security vulnerabilites
