@@ -8,9 +8,9 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 #### - <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
-# 👋 🔐 Cybersecurity Project Portfolio 🔐 👋
+# 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
-## ✅ Cloud Security with AWS IAM:
+## 🔐 🆕 Cloud Security with AWS IAM:
 - ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
 ## ⚠️ Vulnerability Management Projects:
@@ -18,7 +18,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
 - ***[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)***
 
-## 🚨 Threat Hunting and Security Operations:
+## 🚨🏗️ Threat Hunting and Security Operations:
 
 - ***[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 - ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
@@ -28,7 +28,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 - 🚨Simulate a Phising attack and evaluate user responses
 - ✅Build a dashboard to track and priotize security vulnerabilites
 
-## Skills I am working on:
+## 👋 Skills I am working on:
 - Risk Management Framework, Risk Assessment Process
 - Writing detection queries using Kusto Query Language (KQL)
 - MITRE ATT&CK framework and threat mapping
