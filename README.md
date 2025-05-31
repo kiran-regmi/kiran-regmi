@@ -11,7 +11,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
 ## 🔐 🆕 How To Detect A Phishing Email:
-- ***[Cisco - 86% of organizations experienced a phishing attack ](https://github.com/kiran-regmi/phishing-email-campaign)***
+- ***[86% of organizations experienced a phishing attack ](https://github.com/kiran-regmi/phishing-email-campaign)***
 
 ## 🔐 🆕 Cloud Security with AWS IAM:
 - ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
