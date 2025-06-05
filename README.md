@@ -11,7 +11,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
 ## ✅ 🆕 eLearning Virtual Projects:
-- ***Master Card - run a phising campaign***
+- ***Master Card - run a phishing email campaign***
 - ***Commonwealth Bank - Splunk Dashboard showcase fraudulant activities***
 - ***Commonwealth Bank - Hackthissite, Penetration testing***
 - ***Commonwealth Bank - Server Error, Incident Response***
