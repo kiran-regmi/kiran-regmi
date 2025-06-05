@@ -10,6 +10,12 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
+## ✅ 🆕 eLearning Virtual Projects:
+- ***Master Card - run a phising campaign***
+- ***Commonwealth Bank - Splunk Dashboard showcase fraudulant activities***
+- ***Commonwealth Bank - Hackthissite, Penetration testing***
+- ***Commonwealth Bank - Server Error, Incident Response***
+
 ## 🔐 🆕 How To Detect A Phishing Email:
 - ***[In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
 
