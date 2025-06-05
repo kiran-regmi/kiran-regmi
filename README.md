@@ -10,7 +10,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
-## ✅ 🆕 eLearning Virtual Projects:
+## ✅ 🆕 eLearning Job Simulation Projects:
 - ***Master Card - run a phishing email campaign***
 - ***Commonwealth Bank - Splunk Dashboard showcase fraudulant activities***
 - ***Commonwealth Bank - Hackthissite, Penetration testing***
