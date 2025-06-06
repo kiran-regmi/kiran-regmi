@@ -12,7 +12,6 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 ## ✅ 🆕 eLearning Job Simulation Projects:
 - ***[TATA Consulting Service - Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
-- ***Master Card - Running a phishing email campaign***
 - ***Commonwealth Bank - Splunk Dashboard, showcase fraudulant activities***
 - ***Commonwealth Bank - Server Error, Incident Response***
 
