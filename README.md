@@ -10,7 +10,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
-## ✅ 🆕 eLearning Job Simulation Projects:
+## ✅ 🆕 Job Simulation Projects:
 - ***[TATA Consulting Service - Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
 - ***Commonwealth Bank - Splunk Dashboard, showcase fraudulant activities***
 - ***Commonwealth Bank - Server Error, Incident Response***
