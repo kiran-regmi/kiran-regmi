@@ -11,11 +11,6 @@ I’m always learning and adding new projects, so feel free to explore and check
 # 👨‍💻Cybersecurity Project Portfolio👨‍💻
 
 
-## ✅ 🆕 How To Detect A Phishing Email:
-- ***[In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
-
-## 🔐 🆕 Cloud Security with AWS IAM:
-- ***[Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
 ## ⚠️ 📋 Vulnerability Management Projects:
 
@@ -27,11 +22,15 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***[Creating a Mini SOC and Honeynet](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 - ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)***
 
+## ✅ 🆕 🔐Other Projects:
+- ***How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
+- ***Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
+
 ## ✅ 🆕 Job Simulation Projects:
-- ***[TATA Consulting Service - Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
+- ***TATA Consulting Service - [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
 - ***Commonwealth Bank - Splunk Dashboard, showcase fraudulant activities***
-- ***[Commonwealth Bank - Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
-- ***[Commonwealth Bank - Security Awareness on password, ACSC infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
+- ***Commonwealth Bank - [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
+- ***Commonwealth Bank - [Security Awareness on password, ACSC infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
 
 ## 👀 Future Projects:
 - 🛡️Perform a risk assessment on a sample company
