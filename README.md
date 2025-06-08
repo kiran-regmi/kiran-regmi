@@ -30,7 +30,8 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***TATA Consulting Service - [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
 - ***Commonwealth Bank - Splunk Dashboard, showcase fraudulant activities***
 - ***Commonwealth Bank - [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
-- ***Commonwealth Bank - [Security Awareness on password, ACSC infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
+- ***Commonwealth Bank - [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
+- ***Commonwealth Bank - [Penetration Testing, HackThisSite](https://github.com/kiran-regmi/penetration-testing-hackthissite)***
 
 ## 👀 Future Projects:
 - 🛡️Perform a risk assessment on a sample company
