@@ -15,7 +15,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***Commonwealth Bank - Splunk Dashboard, showcase fraudulant activities***
 - ***[Commonwealth Bank - Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
 
-## 🔐 🆕 How To Detect A Phishing Email:
+## ✅ 🆕 How To Detect A Phishing Email:
 - ***[In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
 
 ## 🔐 🆕 Cloud Security with AWS IAM:
