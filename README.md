@@ -31,8 +31,8 @@ I’m always learning and adding new projects, so feel free to explore and check
 - ***Commonwealth Bank - [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
 - ***Commonwealth Bank - [Penetration Testing, HackThisSite](://github.com/kiran-regmi/penetration-testing-hackthissite)***
 - ***TATA Consulting Service - [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
-- ***ANZ Bank - [Social Engineering Investigation](https//github.com/kiran-regmi/social-engineering-investigation-anz)***
-- ***DATACOM - [Data Breach Investigation on APT34 Group](https//github.com/kiran-regmi/data-breach-investigation-apt34)***
+- ***ANZ Bank - [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz)***
+- ***DATACOM - [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34)***
     
 ## 👀 Future Projects:
 - 🛡️Perform a risk assessment on a sample company
