@@ -12,7 +12,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 
 
-## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC Projects:🚨🏗️
+## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC:🚨🏗️
 
 - ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
 - ***[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)***
