@@ -19,7 +19,8 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 - 🛡️ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
 - 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
-## ✅ 🆕 🔐Other Projects:
+
+## ✅ 🆕 🔐 IAM and Security Awareness Projects:
 - ***How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
 - ***Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
