@@ -14,7 +14,6 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 - 💣 **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)**
 - 🛡️ **[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)**
-
 - ⏳ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
 - 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
 
