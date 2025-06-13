@@ -8,21 +8,21 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 #### - <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
-# 👨‍💻Cybersecurity Project Portfolio👨‍💻
+# 🛡️👨‍💻Cybersecurity Project Portfolio👨‍💻
 
 
 
 ## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC:🚨🏗️
 
-- ✅ **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)**
-- 📋 **[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)**
+- 💣 **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)**
+- 🛡️ **[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)**
 
-- 🛡️ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
+- 📋 ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
 - 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
 
 ## ✅ 🆕 🔐 IAM and Security Awareness Projects:
-- **How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)**
-- **Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)**
+- ⚔️ **How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)**
+- 🔐 **Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)**
 
 ## ✅ 🆕 Job Simulation Projects:
 - ***Commonwealth Bank - [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities)***
