@@ -25,9 +25,9 @@ I’m always learning and adding new projects, so feel free to explore and check
 - **Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
 
 ## ✅ 🆕 Job Simulation Projects:
-- **Commonwealth Bank - [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities)***
-- ***Commonwealth Bank - [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
-- ***Commonwealth Bank - [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
+- ***Commonwealth Bank - [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities)***
+- **Commonwealth Bank - [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)***
+- **Commonwealth Bank - [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)***
 - ***Commonwealth Bank - [Penetration Testing, HackThisSite](://github.com/kiran-regmi/penetration-testing-hackthissite)***
 - ***TATA Consulting Service - [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
 - **ANZ Bank - [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz)***
