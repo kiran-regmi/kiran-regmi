@@ -14,11 +14,11 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 ## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC:🚨🏗️
 
-- ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
-- ***[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)***
+- ✅ ***[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)***
+- 📋 ***[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)***
 
-- ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
-- ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
+- 🛡️ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
+- 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
 ## ✅ 🆕 🔐Other Projects:
 - ***How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)***
 - ***Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)***
@@ -35,7 +35,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 ## 👀 Future Projects:
 - 🛡️Perform a risk assessment on a sample company
 - 🚨Simulate a Phising attack and evaluate user responses
-- ✅Build a dashboard to track and priotize security vulnerabilites
+- ✅ Build a dashboard to track and priotize security vulnerabilites
 
 ## 👋 Skills I am working on:
 - Risk Management Framework, Risk Assessment Process
