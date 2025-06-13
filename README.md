@@ -8,9 +8,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 #### - <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
-# 🛡️👨‍💻Cybersecurity Project Portfolio👨‍💻
-
-
+# 🛡️👨‍💻Cybersecurity Project Portfolio👨‍💻🛡️
 
 ## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC:🚨🏗️
 
