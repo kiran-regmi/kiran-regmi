@@ -10,7 +10,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 🛡️👨‍💻Cybersecurity Project Portfolio👨‍💻🛡️
 
-##📌 Goverance Risk and Compliance (GRC) Project: 
+## 📌 Goverance Risk and Compliance (GRC) Project:
 - 🚨 **[Risk Managemnet Framwork (RMF) with NIST 800-53 Mapping](https://gitHub.com/kiran-regmi/grc-rmf-nist800-53)**
 
 
