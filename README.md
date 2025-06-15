@@ -12,7 +12,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 ## 📌 Goverance Risk and Compliance (GRC) Project:
 - 🚨 **[Risk Managemnet Framework (RMF) with NIST 800-53 Mapping](https://gitHub.com/kiran-regmi/grc-rmf-nist800-53)**
-- 🚨 **[Third Party Risk Management](https://gitHub.com/kiran-regmi/tprm)**
+- 🚨 **[Third Party Risk Management(TPRM)](https://gitHub.com/kiran-regmi/tprm)**
 
 ## ⚠️ 📋 Vulnerability Management, Threat Hunting and SOC:🚨🏗️
 
