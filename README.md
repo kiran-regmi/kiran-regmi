@@ -6,7 +6,7 @@ This page showcases some of my work in vulnerability management, risk assessment
 
 I’m always learning and adding new projects, so feel free to explore and check back for updates!
 
-#### - <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regm </a>
+#### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regm </a>
 
 # 🛡️👨‍💻Cybersecurity Project Portfolio👨‍💻🛡️
 
