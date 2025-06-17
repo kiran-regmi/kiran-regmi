@@ -10,29 +10,33 @@ I’m always learning and adding new projects, so feel free to explore and check
 
 # 📌 👨‍💻Cybersecurity Project Portfolio👨‍💻 📌
 
-## ✅ Goverance Risk and Compliance (GRC) Project:
+## ✅ Goverance Risk and Compliance (GRC) Projects:
 - 🚨 **[Risk Managemnet Framework (RMF) with NIST 800-53 Mapping](https://gitHub.com/kiran-regmi/grc-rmf-nist800-53)**
 - 🚨 **[Third Party Risk Management (TPRM)](https://gitHub.com/kiran-regmi/tprm)**
 
-## ✅ Vulnerability Management, Threat Hunting and SOC:
-- 💣 **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)**
+## ✅ Vulnerability Management Projects:
+- 💣 **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)** 
 - ⚠️ **[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)**
-- ⏳ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)***
-- 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)***
 
 ## ✅ IAM and Security Awareness Projects:
-- 🛡️⚔️🐟  **How To Detect A Phishing Email: [In fact, 90% of successful cyber attacks start with a phishing email](https://github.com/kiran-regmi/phishing-email-campaign)**
-- 🔐 **Cloud Security with AWS IAM: [Let's use IAM to control access to our AWS resources](https://github.com/kiran-regmi/cloud-security-aws-iam)**
-- 🔐 **Manages User with RBAC policies & Detects privilege escalation [Identity & Access Management:](https://github.com/kiran-regmi/rbac-iam-project)**
+- 🛡️⚔️🐟 **[How To Detect A Phishing Email](https://github.com/kiran-regmi/phishing-email-campaign)** - In fact, 90% of successful cyber attacks start with a phishing email
+- 🔐 **[Cloud Security with AWS IAM Policy](https://github.com/kiran-regmi/cloud-security-aws-iam)** - Let's use IAM to control access to our AWS resources
+- 🔐 **[Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)** - Identity & Access Management
+
+## ✅Thret Hunting:
+- 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)*** - in progress
+
+## ✅ SOC:
+- ⏳ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)*** - in progress
 
 ## ✅ 🆕 Job Simulation Projects:
-- ⏳***Commonwealth Bank - [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities)***
-- 🚨 **Commonwealth Bank - [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error)**
-- 💻 **Commonwealth Bank - [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic)**
-- ⏳***Commonwealth Bank - [Penetration Testing, HackThisSite](://github.com/kiran-regmi/penetration-testing-hackthissite)***
-- 🏗️***TATA Consulting Service - [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution)***
-- 🎭 **ANZ Bank - [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz)**
-- 💥 **DATACOM - [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34)**
+- ⏳ [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities) - Commonwealth Bank
+- 🚨 [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error) - Commonwealth Bank
+- 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - Commonwealth Bank
+- ⏳ [Penetration Testing, HackThisSite](://github.com/kiran-regmi/penetration-testing-hackthissite) - Commonwealth Bank
+- 🏗️ [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution) - TATA Consulting Service
+- 🎭 [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz) - ANZ Bank
+- 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
     
 ## 👀 Future Projects:
 - 📋 Perform a risk assessment on a sample company
