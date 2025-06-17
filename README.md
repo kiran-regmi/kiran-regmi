@@ -22,7 +22,7 @@ I’m always learning and adding new projects, so feel free to explore and check
 - 🛡️⚔️🐟 [How To Detect A Phishing Email](https://github.com/kiran-regmi/phishing-email-campaign) - In fact, 90% of successful cyber attacks start with a phishing email
 - 🔐 [Cloud Security with AWS IAM Policy](https://github.com/kiran-regmi/cloud-security-aws-iam) - Let's use IAM to control access to our AWS resources
 - 🔐 [Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)- Identity & Access Management
-- 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - Commonwealth Bank
+- 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - based on Australian Cyber Security Centre (ACSC) advice
 
 ## ✅Thret Hunting:
 - 🚨 [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor) - in progress
