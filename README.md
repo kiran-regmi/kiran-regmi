@@ -11,23 +11,24 @@ I’m always learning and adding new projects, so feel free to explore and check
 # 📌 👨‍💻Cybersecurity Project Portfolio👨‍💻 📌
 
 ## ✅ Goverance Risk and Compliance (GRC) Projects:
-- 🚨 **[Risk Managemnet Framework (RMF) with NIST 800-53 Mapping](https://gitHub.com/kiran-regmi/grc-rmf-nist800-53)**
-- 🚨 **[Third Party Risk Management (TPRM)](https://gitHub.com/kiran-regmi/tprm)**
+- 🚨 [Risk Managemnet Framework (RMF) with NIST 800-53 Mapping](https://gitHub.com/kiran-regmi/grc-rmf-nist800-53)
+- 🚨 [Third Party Risk Management (TPRM)](https://gitHub.com/kiran-regmi/tprm)
 
 ## ✅ Vulnerability Management Projects:
-- 💣 **[Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)** 
-- ⚠️ **[Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)**
+- 💣 [Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)
+- ⚠️ [Programmatic Vulnerability Remediations (PowerShell and BASH)](http://github.com/kiran-regmi/programmatic-vulnerability-remediations)
 
 ## ✅ IAM and Security Awareness Projects:
-- 🛡️⚔️🐟 **[How To Detect A Phishing Email](https://github.com/kiran-regmi/phishing-email-campaign)** - In fact, 90% of successful cyber attacks start with a phishing email
-- 🔐 **[Cloud Security with AWS IAM Policy](https://github.com/kiran-regmi/cloud-security-aws-iam)** - Let's use IAM to control access to our AWS resources
-- 🔐 **[Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)** - Identity & Access Management
+- 🛡️⚔️🐟 [How To Detect A Phishing Email](https://github.com/kiran-regmi/phishing-email-campaign) - In fact, 90% of successful cyber attacks start with a phishing email
+- 🔐 [Cloud Security with AWS IAM Policy](https://github.com/kiran-regmi/cloud-security-aws-iam) - Let's use IAM to control access to our AWS resources
+- 🔐 [Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)- Identity & Access Management
+- 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - Commonwealth Bank
 
 ## ✅Thret Hunting:
-- 🚨 ***[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)*** - in progress
+- 🚨 [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor) - in progress
 
 ## ✅ SOC:
-- ⏳ ***[Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet)*** - in progress
+- ⏳ [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) - in progress
 
 ## ✅ 🆕 Job Simulation Projects:
 - ⏳ [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities) - Commonwealth Bank
