@@ -38,7 +38,7 @@ I’m always learning and adding new projects, so feel free to explore and check
     
 ## 👀 Future Projects:
 - ⚔️ Threat Hunting - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)
-- ⚔️ SOC - [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) 
+- ❌  SOC - [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) 
 - 📋 Perform a risk assessment on a sample company
 - 🚨Simulate a Phising attack and evaluate user responses
 - ✅ Build a dashboard to track and priotize security vulnerabilites
