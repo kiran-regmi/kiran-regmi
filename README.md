@@ -25,10 +25,10 @@ I’m always learning and adding new projects, so feel free to explore and check
 - 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - based on Australian Cyber Security Centre (ACSC) advice
 
 ## ✅Thret Hunting:
-- 🚨 [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor) - in progress
+- 🚨 [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor) - to do
 
 ## ✅ SOC:
-- ⏳ [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) - in progress
+- ⏳ [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) - to do
 
 ## ✅ 🆕 Job Simulation Projects:
 - ⏳ [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities) - Commonwealth Bank
