@@ -11,7 +11,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 
 # 📘 Supporting Security & Engineering Background
 ## ✅ Network Security Projects:
-- 🔹 [Nework Security Monitoring & Packet Analysis with Wireshark](https://github.com/kiran-regmi/network-traffic-analysis-wireshark)
+- 📌🔹 [Nework Security Monitoring & Packet Analysis with Wireshark](https://github.com/kiran-regmi/network-traffic-analysis-wireshark)
 
 ## ✅ Vulnerability Management Projects:
 - 💣 [Vulnerability Management Program Implementation](https://github.com/kiran-regmi/vulnerability-management-program)
