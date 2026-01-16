@@ -37,7 +37,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
 
 **Certifications:**
-- [CompTIA Security] (https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
+- [CompTIA Security](https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
 - Cisco Networking
 - Microsoft Security | Azure | 365
 
