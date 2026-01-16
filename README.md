@@ -6,10 +6,18 @@ I have practical experience analyzing Windows authentication logs, network and f
 
 This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
 
-# 📌 🛡️ SOC & Security Operations Projects 🆕 
+# 📌 🛡️ SOC & Security Operations Projects  
 - 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation) - Brute-force authentication alert investigation using Windows and network logs, SPL queries, severity assessment, and escalation documentation.
 - 🔹 [Nework Security Monitoring & Packet Analysis with Wireshark](https://github.com/kiran-regmi/network-traffic-analysis-wireshark)
 
+# ✨ AI (Artificial Intelligence) 🆕 
+## ✅ 7 Day Challenge Projects:
+- AI Foundation - what it is and how to use it?
+- Difference between good and bad prompt
+- Use of AI in Cybersecurity
+- Limitation of AI
+- Various Tools and Use
+- Conclusion
 
 # 📘 Supporting Security & Engineering Background
 ## ✅ Vulnerability Management Projects:
@@ -26,7 +34,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🔐 [Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)- identity & Access Management
 - 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - based on Australian Cyber Security Centre (ACSC) advice
 
-## ✅ 🆕 Job Simulation Projects:
+## ✅ Job Simulation Projects:
 - ⏳ [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities) - Commonwealth Bank
 - 🚨 [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error) - Commonwealth Bank
 - 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - Commonwealth Bank
