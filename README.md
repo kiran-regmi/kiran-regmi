@@ -38,7 +38,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🔐 [Manages User with RBAC Policies & Detects Privilege Escalation](https://github.com/kiran-regmi/rbac-iam-project)- identity & Access Management
 - 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - based on Australian Cyber Security Centre (ACSC) advice
 
-## Job Simulation Projects:
+## School (Job Simulation) / Projects:
 - ⏳ [Data Analysis, Fraudulent Activities, Splunk Dashboard](https://github.com/kiran-regmi/data-analysis-fraudulent-activities) - Commonwealth Bank
 - 🚨 [Incident Response, Server Error](https://github.com/kiran-regmi/incident-response-server-error) - Commonwealth Bank
 - 💻 [Security Awareness on password, ACSC Infographic](https://github.com/kiran-regmi/security-awareness-pwd-acsc-infographic) - Commonwealth Bank
