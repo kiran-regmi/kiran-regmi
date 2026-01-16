@@ -7,7 +7,8 @@ I have practical experience analyzing Windows authentication logs, network and f
 This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
 
 # 📌 🛡️ SOC & Security Operations Projects 🆕 
-- 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation)
+- 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation) - Brute-force authentication alert investigation using Windows and network logs, SPL queries, severity assessment, and escalation documentation.
+
 
 # 📘 Supporting Security & Engineering Background
 ## ✅ Network Security Projects:
