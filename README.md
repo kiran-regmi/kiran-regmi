@@ -1,6 +1,18 @@
 
 ### Welcome,
-I'm passionate about cybersecurity — especially the areas that help organizations manage risk, stay compliant, and protect critical systems. I enjoy turning complex problems into clear, practical solutions through hands-on projects.
+Welcome,
+
+I am an aspiring SOC Analyst with a strong engineering background and hands-on experience investigating security alerts using Splunk. My primary focus is Security Operations, including log analysis, alert triage, and incident investigation at the SOC-1 level.
+
+I have practical experience analyzing Windows authentication logs, network and firewall events, and correlating activity across multiple log sources to determine whether alerts are true positives or false positives. My approach follows standard SOC workflows: alert validation, investigation, severity assessment, escalation, and documentation.
+
+This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
+
+🛡️ SOC & Security Operations Projects (PRIMARY FOCUS)
+
+SOC Incident Investigation Using Splunk (new repo)
+
+
 
 This page showcases some of my work in vulnerability management, risk assessment, and security operations. I hold certifications including ***CompTIA Security+***, ***Cisco Networking***, ***Microsoft Security***, and ***Microsoft Azure***, which have helped me build a solid foundation in both cloud and network security.
 
