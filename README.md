@@ -15,11 +15,6 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 # ✨ AI (Artificial Intelligence) 🆕 
 ## ✅ 7 Day Challenge Projects:
 - AI Foundation - what it is and how to use it?
-- Difference between good and bad prompt
-- Use of AI in Cybersecurity
-- Limitation of AI
-- Various Tools and Use
-- Conclusion
 
 <hr/>
 
