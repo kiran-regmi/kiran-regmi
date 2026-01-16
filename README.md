@@ -8,6 +8,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 
 # 📌 🛡️ SOC & Security Operations Projects 🆕 
 - 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation) - Brute-force authentication alert investigation using Windows and network logs, SPL queries, severity assessment, and escalation documentation.
+- - 🚨 [Network Security Monitoring & Packet Analysis (Wireshark](https://github.com/kiran-regmi/splunk-soc-incident-investigation) - packet analysis using wireshark
 
 
 # 📘 Supporting Security & Engineering Background
