@@ -10,6 +10,8 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation) - Brute-force authentication alert investigation using Windows and network logs, SPL queries, severity assessment, and escalation documentation.
 - 🔹 [Nework Security Monitoring & Packet Analysis with Wireshark](https://github.com/kiran-regmi/network-traffic-analysis-wireshark)
 
+<hr/>
+
 # ✨ AI (Artificial Intelligence) 🆕 
 ## ✅ 7 Day Challenge Projects:
 - AI Foundation - what it is and how to use it?
@@ -18,6 +20,8 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - Limitation of AI
 - Various Tools and Use
 - Conclusion
+
+<hr/>
 
 # 📘 Supporting Security & Engineering Background
 ## ✅ Vulnerability Management Projects:
