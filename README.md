@@ -39,7 +39,8 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 *Certifications:*
 - [CompTIA Security](https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
 - [Cisco Networking](https://www.kiranregmi.com/assets/pdf/cisco-network.pdf)
-- [Microsoft Security]( | [Azure](https://www.kiranregmi.com/assets/pdf/microsoft-azure.pdf) | [365](https://www.kiranregmi.com/assets/pdf/microsoft-365.pdf) 
+- [Microsoft Azure](https://www.kiranregmi.com/assets/pdf/microsoft-azure.pdf) | [Microsoft 365](https://www.kiranregmi.com/assets/pdf/microsoft-365.pdf)
+- [ISC2 NIST 2.0](https://www.kiranregmi.com/assets/pdf/isc2-nist.pdf)) 
 
 #### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
