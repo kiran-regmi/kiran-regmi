@@ -1,4 +1,3 @@
-
 ### Welcome,
 
 I am an aspiring SOC Analyst with a strong engineering background and hands-on experience investigating security alerts using Splunk. My primary focus is Security Operations, including log analysis, alert triage, and incident investigation at the SOC-1 level.
@@ -38,7 +37,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
 
 **Certifications:**
-- CompTIA Security 
+- [CompTIA Security] (https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
 - Cisco Networking
 - Microsoft Security | Azure | 365
 
