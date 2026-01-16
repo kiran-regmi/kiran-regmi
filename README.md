@@ -36,10 +36,10 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🎭 [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz) - ANZ Bank
 - 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
 
-**Certifications:**
+*Certifications:*
 - [CompTIA Security](https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
-- Cisco Networking
-- Microsoft Security | Azure | 365
+- [Cisco Networking](https://www.kiranregmi.com/assets/pdf/cisco-network.pdf)
+- [Microsoft Security]( | [Azure](https://www.kiranregmi.com/assets/pdf/microsoft-azure.pdf) | [365](https://www.kiranregmi.com/assets/pdf/microsoft-365.pdf) 
 
 #### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
