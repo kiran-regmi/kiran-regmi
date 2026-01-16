@@ -6,7 +6,7 @@ I have practical experience analyzing Windows authentication logs, network and f
 
 This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
 
-# 📌 🛡️ SOC & Security Operations Projects
+# 📌 🛡️ SOC & Security Operations Projects 🆕 
 - 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation)
 
 # 📘 Supporting Security & Engineering Background
@@ -35,6 +35,7 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🏗️ [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution) - TATA Consulting Service
 - 🎭 [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz) - ANZ Bank
 - 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
+
 
 ## Certification:
 - [CompTIA Security](https://www.kiranregmi.com/assets/pdf/comptia-securityplus.pdf)
