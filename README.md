@@ -1,6 +1,5 @@
 
 ### Welcome,
-Welcome,
 
 I am an aspiring SOC Analyst with a strong engineering background and hands-on experience investigating security alerts using Splunk. My primary focus is Security Operations, including log analysis, alert triage, and incident investigation at the SOC-1 level.
 
@@ -8,15 +7,17 @@ I have practical experience analyzing Windows authentication logs, network and f
 
 This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
 
-🛡️ SOC & Security Operations Projects (PRIMARY FOCUS)
+# 📌 🛡️ SOC & Security Operations Projects (PRIMARY FOCUS)
 
-SOC Incident Investigation Using Splunk (new repo)
+## 🚨 SOC Incident Investigation Using Splunk (SOC-1)
+## 📘 Supporting Security & Engineering Background
 
 
+**Certifications:**
+- CompTIA Security 
+- Cisco Networking
+- Microsoft Security | Azure | 365
 
-This page showcases some of my work in vulnerability management, risk assessment, and security operations. I hold certifications including ***CompTIA Security+***, ***Cisco Networking***, ***Microsoft Security***, and ***Microsoft Azure***, which have helped me build a solid foundation in both cloud and network security.
-
-I’m always learning and adding new projects, so feel free to explore and check back for updates!
 
 #### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
