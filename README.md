@@ -7,22 +7,10 @@ I have practical experience analyzing Windows authentication logs, network and f
 
 This portfolio highlights my SOC-focused projects, particularly incident investigations using SIEM tools, along with supporting work in network security, vulnerability management, and cloud security that strengthens my operational understanding.
 
-# 📌 🛡️ SOC & Security Operations Projects (PRIMARY FOCUS)
+# 📌 🛡️ SOC & Security Operations Projects
+- 🚨 [SOC Incident Investigation Using Splunk (SOC-1)](https://github.com/kiran-regmi/splunk-soc-incident-investigation)
 
-## 🚨 SOC Incident Investigation Using Splunk (SOC-1)
-## 📘 Supporting Security & Engineering Background
-
-
-**Certifications:**
-- CompTIA Security 
-- Cisco Networking
-- Microsoft Security | Azure | 365
-
-
-#### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
-
-# 📌 👨‍💻Cybersecurity Project Portfolio👨‍💻 📌
-
+# 📘 Supporting Security & Engineering Background
 ## ✅ Network Security Projects:
 - 🔹 [Nework Security Monitoring & Packet Analysis with Wireshark](https://github.com/kiran-regmi/network-traffic-analysis-wireshark)
 
@@ -48,19 +36,13 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 - 🏗️ [Assessing and Implementing IAM Solutions for TechCorp](https://github.com/kiran-regmi/assessing-implementing-IAM-solution) - TATA Consulting Service
 - 🎭 [Social Engineering Investigation](https://github.com/kiran-regmi/social-engineering-investigation-anz) - ANZ Bank
 - 💥 [Data Breach Investigation on APT34 Group](https://github.com/kiran-regmi/data-breach-investigation-apt34) - DATACOM
-    
-## 👀 Future Projects:
-- ⚔️ Threat Hunting - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kiran-regmi/threat-hunting-scenario-tor)
-- ❌  SOC - [Creating a Mini SOC and Honeynet](https://github.com/kiran-regmi/mini-soc-honeynet) 
-- 📋 Perform a risk assessment on a sample company
-- 🚨Simulate a Phising attack and evaluate user responses
-- ✅ Build a dashboard to track and priotize security vulnerabilites
 
-## 👋 Skills I am working on:
-- Risk Management Framework, Risk Assessment Process
-- Writing detection queries using Kusto Query Language (KQL)
-- MITRE ATT&CK framework and threat mapping
+**Certifications:**
+- CompTIA Security 
+- Cisco Networking
+- Microsoft Security | Azure | 365
 
+#### 👤 <a href="https://www.linkedin.com/in/kiran-regmi/"> Kiran Regmi </a>
 
 <hr/>
 
