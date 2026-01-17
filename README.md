@@ -12,9 +12,9 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 
 <hr/>
 
-# ✨ AI (Artificial Intelligence) 🆕 
-## ✅ 7 Day Challenge Projects:
-- AI Foundation - what it is and how to use it?
+# ✨ AI-Powered SOC & GRC Automation Platform  🆕 
+## [Using AI Agents to Enhance Security Operations, Goverance and Career Readiness]
+
 
 <hr/>
 
