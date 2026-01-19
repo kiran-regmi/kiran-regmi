@@ -13,8 +13,9 @@ This portfolio highlights my SOC-focused projects, particularly incident investi
 <hr/>
 
 # ✨ AI-Powered SOC & GRC Automation Platform  🆕 
-## [Using AI Agents to Enhance Security Operations, Goverance and Career Readiness]
-
+- [Using AI Agents to Enhance Security Operations, Goverance and Career Readiness](https://github.com/kiran-regmi/ai-powered-soc-grc-automation)
+- AI Job Seach Agent - searching the webs to bring SOC-1 relavent jobs to inbox daily.
+- AI Voice Agent - ready to answer questions about the impact of artificial intelligence on cybersecurity, SOC and GRC (Governance, Risk, and Compliance)
 
 <hr/>
 
